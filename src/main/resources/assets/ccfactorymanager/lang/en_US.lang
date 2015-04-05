@@ -1,0 +1,9 @@
+# Creative Tabs
+itemGroup.ccfactorymanager=CC's Factory Manager
+
+# Blocks
+tile.ccfactorymanager:block_factory_controller.name=Factory Controller
+tile.ccfactorymanager:block_factory_cable.name=Factory Cable
+
+# Gui-Stuff
+textinput.ccfactorymanager:setid.hint=Enter new ID ...

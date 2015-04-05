@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ccfactorymanager",
+  "name": "CC's Factory Manager",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Davenonymous"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
