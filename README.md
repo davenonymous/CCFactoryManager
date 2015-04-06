@@ -30,6 +30,14 @@ Permissions
 Feel free to use in any modpack. I won't answer messages/issues about this, please don't feel insulted.
 
 
+Recipes
+-----------------
+
+Factory Controller         |  Factory Cable
+:-------------------------:|:-------------------------:
+![](/readme-images/FactoryController.png)  |  ![](/readme-images/FactoryCable.png)
+
+
 Peripheral Documentation
 -----------------
 
