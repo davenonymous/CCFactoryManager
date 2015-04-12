@@ -1,0 +1,17 @@
+language: java
+
+install: ./gradlew setupCIWorkspace -S
+script:
+ - ./gradlew build -S
+ - rm -f $HOME/.gradle/caches/modules-2/modules-2.lock
+
+env:
+  global:
+    TERM=dumb
+
+sudo: false
+
+cache:
+  directories:
+    - ./libs
+    - $HOME/.gradle/caches
