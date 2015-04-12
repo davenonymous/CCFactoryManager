@@ -1,4 +1,4 @@
-CC's Factory Manager
+CC's Factory Manager  [![Build Status](https://travis-ci.org/thraaawn/CCFactoryManager.svg?branch=master)](https://travis-ci.org/thraaawn/CCFactoryManager)
 ================
 
 Allows [ComputerCraft](http://www.computercraft.info/) to handle items, fluids and RF similar to [Steve's Factory Manager](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293066-1-7-2-steves-factory-manager) but with the power of lua.
